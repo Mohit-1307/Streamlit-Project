@@ -256,6 +256,22 @@ Configured to ignore:
 * ML artifacts
 * Secrets and environment files
 
+📝 Repository Documentation
+
+README.md
+
+* Provides complete documentation for the Streamlit Examples Collection:
+
+* Explains the purpose and learning goals of the repository
+
+* Describes the project structure and example files
+
+* Breaks down Streamlit concepts covered in each script
+
+* Includes setup instructions and run commands
+
+* Suggests a recommended learning path
+
 ---
 
 ## ▶️ How to Run Any Example
