@@ -258,7 +258,7 @@ Configured to ignore:
 
 ## 📝 Repository Documentation
 
-### README.md
+### `README.md`
 
 * Provides complete documentation for the Streamlit Examples Collection:
 
