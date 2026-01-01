@@ -342,11 +342,11 @@ git clone https://github.com/Mohit-1307/Streamlit-Playbook.git
 
 cd Streamlit-Playbook
 
-Install dependencies:
+### Install dependencies:
 
 pip install streamlit
 
-Run any Streamlit example:
+### Run any Streamlit example:
 
 streamlit run filename.py
 
