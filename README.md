@@ -150,7 +150,7 @@ USER INPUT & FORMS
 │
 │   📁 Files:
 │   ├── simple_form.py
-│   ├── advanced_form.py
+│   ├── advance_form.py
 │   └── form_elements.py
 │
 SESSION STATE — CORE STREAMLIT SKILL
@@ -297,7 +297,7 @@ PRODUCTION READINESS
 
 * JSON & dictionary display
 
-* chart_elements.py
+#### chart_elements.py
 
 * Visualization examples using:
 
@@ -323,7 +323,7 @@ PRODUCTION READINESS
 
 * Submit button handling
 
-* advanced_form.py
+#### advance_form.py
 
 * Realistic form patterns:
 
